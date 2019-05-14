@@ -1,0 +1,116 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  file_get_contents(http://dev.jetpublish.com/zirajudeen/zirajadmin/coverappadmin/uploads/fontconversion/বৃন্দা/বৃন্দা-Regular.ttf): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+</p>
+<p>Filename: controllers/Font.php</p>
+<p>Line Number: 14</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\application\controllers\Font.php<br />
+			Line: 14<br />
+			Function: file_get_contents			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  file_get_contents(.\assets\fontconvert\/বৃন্দা-Regular.woff): failed to open stream: No such file or directory</p>
+<p>Filename: controllers/Font.php</p>
+<p>Line Number: 21</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\application\controllers\Font.php<br />
+			Line: 21<br />
+			Function: file_get_contents			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  unlink(.\assets\fontconvert\/বৃন্দা-Regular.woff): No such file or directory</p>
+<p>Filename: controllers/Font.php</p>
+<p>Line Number: 23</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\application\controllers\Font.php<br />
+			Line: 23<br />
+			Function: unlink			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\inetpub\wwwroot\jetscriptfont\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>bool(false)
